@@ -1,6 +1,6 @@
 # Economics-Discord-Bot
 
-Economics-Discord-Bot is a Discord bot designed to deliver real-time economic data, insights, and fun economic interactions directly within your Discord server.
+Economics-Discord-Bot is a Discord bot designed to deliver economic, insights, and fun economic interactions directly within your Discord server.
 
 ## Features
 
